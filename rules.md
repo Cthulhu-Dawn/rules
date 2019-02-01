@@ -34,6 +34,7 @@ Keep in mind that you are running around with our magnificent CD tag. This means
 
 ### Discord
 
+- Discord is required, voice is not, but access to Discord is required since that is where all announcements will be made and where we organize events.
 - All internal communication rules apply to, but are not limited to, in-game guild chat, Discord chat and voice channels. The contents of direct messages -- when between guild members -- can and will be subject to these rules, especially when they violate previously stated rules pertaining to respect and harassment of any kind.
 - Do not mindlessly yell in Discord. This will simply end up in the yeller being muted. Please refrain from typing everything in all CAPS. This can be interpreted as yelling, be hard to read, and frustrating when trying to communicate.
 - Our channels are provided for our guild and only our guild to use. For that reason, server invites are not extended to non-guildies. If a special case requires consideration, please contact guild leadership.
