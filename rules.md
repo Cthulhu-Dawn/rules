@@ -3,7 +3,7 @@
 # Cthulhu Dawn Guild Rules
 
 Cthulhu Dawn is first and foremost a social guild. As such, we focus on fun, friendship and a sense of community.
-Although hardcore gaming is not our main purpose, we do strive to better our knowledge of the game and help one another reach endgame achievements. 
+Although hardcore gaming is not our main purpose, we do strive to better our knowledge of the game and help one another reach endgame achievements.
 The following rules are the official terms by which we expect ALL members to abide:
 **Be helpful to others, and the guild as a whole. Show respect to everyone, and try to go a little out of the regular grind in order to have loads of fun and adventures with your peers.**
 
