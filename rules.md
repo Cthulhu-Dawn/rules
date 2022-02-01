@@ -27,13 +27,13 @@ Keep in mind that you are running around with our magnificent CD tag. This means
 
 - Mature topics, for example those of a sexual nature, can be discussed in guild chat but should a member express discomfort, you are expected to cease discussion and change topics.
 - WTS/WTB is ok within reason. Just keep in mind guild chat is not your own personal trading bazaar, so keep spamming to a minimum.
-- It is acceptable to ask for assistance, but if others are busy or not able, do not become a pest in chat. 
+- It is acceptable to ask for assistance, but if others are busy or not able, do not become a pest in chat.
 - Don't expect replies from everyone. People often have their hands full and might not be paying attention to chat.
 - We are an international guild and with that comes the language barrier. It's always fun to find others that are speaking the same language as you do, but don't talk in guild chat or Discord in any other language than English. That way everyone understands and there's no room for misinterpretation. Whatever language you use in any other chat is your choice.
 
 ### Discord
 
-- Discord is strongly recommended. Voice chat is not required, but Discord is our guild chat due to multiple gaming guilds. Most announcements are made there. 
+- Discord is strongly recommended. Voice chat is not required, but Discord is our guild chat due to multiple gaming guilds. Most announcements are made there.
 - All internal communication rules apply to, but are not limited to, in-game guild chat, Discord chat and voice channels. The contents of direct messages -- when between guild members -- can and will be subject to these rules, especially when they violate previously stated rules pertaining to respect and harassment of any kind.
 - Do not mindlessly yell in Discord. This will simply end up in the yeller being muted. Please refrain from typing everything in all CAPS. This can be interpreted as yelling, be hard to read, and frustrating when trying to communicate.
 - Our channels are provided for our guild and only our guild to use. For that reason, server invites are not extended to non-guildies. If a special case requires consideration, please contact guild leadership.
